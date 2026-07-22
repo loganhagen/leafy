@@ -1,0 +1,13 @@
+:root {
+  font-family: system-ui, -apple-system, sans-serif;
+  color: #2e7d32;
+  background: linear-gradient(135deg, #e8f5e9, #c8e6c9);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+}
