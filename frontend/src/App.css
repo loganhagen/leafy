@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  min-height: 100vh;
+  text-align: center;
+  padding: 0 1rem;
+  box-sizing: border-box;
+}
+
+.container h1 {
+  font-size: 3rem;
+  margin: 0;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.container p {
+  max-width: 32rem;
+  margin: 0;
+  color: #558b2f;
+}
+
+.container code {
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+  background: rgba(46, 125, 50, 0.1);
+}
